@@ -1,4 +1,4 @@
-# Alignly --- Business Operations & Executive Intelligence Platform
+# Alignly: Business Operations & Executive Intelligence Platform
 
 > **A practical operations command center for tracking strategic
 > execution, surfacing delivery risks, maintaining leadership
