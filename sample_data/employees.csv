@@ -1,0 +1,16 @@
+department_name,full_name,email,is_active
+Customer Operations,Maya Lin,maya.lin@example.com,true
+Customer Operations,Carlos Gomez,carlos.gomez@example.com,true
+Customer Operations,Rachel Green,rachel.green@example.com,true
+Finance,David Chen,david.chen@example.com,true
+Finance,Sarah Jenkins,sarah.jenkins@example.com,true
+Finance,Priya Nair,priya.nair@example.com,true
+People & Culture,Elena Rostova,elena.rostova@example.com,true
+People & Culture,Marcus Vance,marcus.vance@example.com,true
+People & Culture,Chloe Bennett,chloe.bennett@example.com,true
+Technology,Alex Rivera,alex.rivera@example.com,true
+Technology,James Wilson,james.wilson@example.com,true
+Technology,Anita Patel,anita.patel@example.com,true
+Sales & Partnerships,Sophia Taylor,sophia.taylor@example.com,true
+Sales & Partnerships,Liam O'Connor,liam.oconnor@example.com,true
+Sales & Partnerships,Kevin Zhang,kevin.zhang@example.com,true

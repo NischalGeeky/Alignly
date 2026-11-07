@@ -1,0 +1,19 @@
+kpi_name,department_name,measurement_offset_days,actual_value,target_value
+Customer First Response Time,Customer Operations,-30,3.5,2.0
+Customer First Response Time,Customer Operations,-15,2.8,2.0
+Customer First Response Time,Customer Operations,-1,2.4,2.0
+Order Processing Accuracy,Customer Operations,-30,96.8,99.0
+Order Processing Accuracy,Customer Operations,-15,97.5,99.0
+Order Processing Accuracy,Customer Operations,-1,98.2,99.0
+Budget Variance,Finance,-30,4.2,3.0
+Budget Variance,Finance,-15,3.6,3.0
+Budget Variance,Finance,-1,2.8,3.0
+Employee Onboarding Completion Rate,People & Culture,-30,86.0,95.0
+Employee Onboarding Completion Rate,People & Culture,-15,90.5,95.0
+Employee Onboarding Completion Rate,People & Culture,-1,93.0,95.0
+Core System Availability,Technology,-30,99.91,99.99
+Core System Availability,Technology,-15,99.95,99.99
+Core System Availability,Technology,-1,99.97,99.99
+Sales Qualified Lead Conversion Rate,Sales & Partnerships,-30,13.8,18.0
+Sales Qualified Lead Conversion Rate,Sales & Partnerships,-15,15.2,18.0
+Sales Qualified Lead Conversion Rate,Sales & Partnerships,-1,16.5,18.0

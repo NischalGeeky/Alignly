@@ -1,0 +1,7 @@
+department_name,name,unit,direction,is_active
+Customer Operations,Customer First Response Time,Hours,Lower is better,true
+Customer Operations,Order Processing Accuracy,%,Higher is better,true
+Finance,Budget Variance,%,Lower is better,true
+People & Culture,Employee Onboarding Completion Rate,%,Higher is better,true
+Technology,Core System Availability,%,Higher is better,true
+Sales & Partnerships,Sales Qualified Lead Conversion Rate,%,Higher is better,true

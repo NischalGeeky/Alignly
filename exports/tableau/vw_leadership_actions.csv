@@ -1,0 +1,6 @@
+action_id,description,deadline,completed_date,status,priority,initiative_code,department,owner
+9f78ad61d12f494db3e067763c2f5fe4,Direct renegotiation with third-party billing gateway vendor regarding API deprecation and SLA terms.,2026-10-22,,Open,Critical,INI-0010,Technology,Alex Rivera
+3a5c5fbbdd5a4fe1914a5ed10b97121e,Submit revised milestone recovery schedule and resource request for customer process mapping.,2026-10-28,,In Progress,High,INI-0006,Customer Operations,Carlos Gomez
+1d78c98f5b744be8bda3366b3c50c185,Archive and certify all FY26 ledger reconciliation audit packages with external auditors.,2026-10-17,2026-10-17,Completed,High,INI-0001,Finance,David Chen
+f0f99f2786a047bf99b234310bf8c329,Present customer onboarding risk mitigation options at next executive review.,2026-11-06,,Open,High,INI-0008,Customer Operations,Maya Lin
+83e02d5bf51e4ba49c412a5a8d26b414,Finalize co-selling compensation structure for Tier-1 channel partners.,2026-11-11,,Open,Medium,INI-0011,Sales & Partnerships,Sophia Taylor

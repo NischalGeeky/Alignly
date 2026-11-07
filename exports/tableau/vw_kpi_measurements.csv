@@ -1,0 +1,19 @@
+measurement_id,department,kpi_name,period,actual_value,target_value,unit
+25e007f623af45b092bb1f7b882b59c3,Customer Operations,Customer First Response Time,2026-10-02,3.5,2.0,Hours
+40506fcbe2c5472dbe511570695ff4ff,Customer Operations,Customer First Response Time,2026-10-17,2.8,2.0,Hours
+06cc9a7fba6144ea93c914a422d916f1,Customer Operations,Customer First Response Time,2026-10-31,2.4,2.0,Hours
+4178db690dbe4bb99facc7f46230618b,Customer Operations,Order Processing Accuracy,2026-10-02,96.8,99.0,%
+5b9a1ff32b71447ba3ceb7f2cc8ffb16,Customer Operations,Order Processing Accuracy,2026-10-17,97.5,99.0,%
+f5ff7634ec864b21a1c6689461e29b5e,Customer Operations,Order Processing Accuracy,2026-10-31,98.2,99.0,%
+51b7a2df934f47c89d5bb78c89febace,Finance,Budget Variance,2026-10-02,4.2,3.0,%
+00dc5e307eb84094a5776453c4bc6248,Finance,Budget Variance,2026-10-17,3.6,3.0,%
+a7eb528fd9a24afc9e544b521661b924,Finance,Budget Variance,2026-10-31,2.8,3.0,%
+4d2df1fe90004399959cae5da40d004c,People & Culture,Employee Onboarding Completion Rate,2026-10-02,86.0,95.0,%
+232791d5826541f1ad8616f2fcae9b79,People & Culture,Employee Onboarding Completion Rate,2026-10-17,90.5,95.0,%
+f4ab739b567e43d5ad1f1ed17a2dead0,People & Culture,Employee Onboarding Completion Rate,2026-10-31,93.0,95.0,%
+f7706877c2de4a489ee357a1c41393fe,Technology,Core System Availability,2026-10-02,99.91,99.99,%
+ab0c8bda4fa4409ba45227b570bbc25f,Technology,Core System Availability,2026-10-17,99.95,99.99,%
+68ca1dad88a7426bb9ad86ccde3935c8,Technology,Core System Availability,2026-10-31,99.97,99.99,%
+ff414294c272497a8f075ee5930fc23d,Sales & Partnerships,Sales Qualified Lead Conversion Rate,2026-10-02,13.8,18.0,%
+98e20ad521ac47e9b045f5fbc98a6a58,Sales & Partnerships,Sales Qualified Lead Conversion Rate,2026-10-17,15.2,18.0,%
+772d493d77484f6790365f10b7f22230,Sales & Partnerships,Sales Qualified Lead Conversion Rate,2026-10-31,16.5,18.0,%

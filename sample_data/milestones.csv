@@ -1,0 +1,49 @@
+initiative_code,owner_email,name,planned_offset_days,actual_offset_days,status,notes
+INI-0001,david.chen@example.com,Requirements Definition & Audit Scope,-100,-98,Completed,Completed ahead of audit window.
+INI-0001,sarah.jenkins@example.com,Reconciliation Engine Configuration,-50,-48,Completed,Automated ledger matching verified.
+INI-0001,david.chen@example.com,Final Signoff & Audit Certification,-15,-15,Completed,Executive signoff completed.
+INI-0002,elena.rostova@example.com,Benefits Vendor RFP & Selection,-75,-72,Completed,Selected primary benefits broker.
+INI-0002,chloe.bennett@example.com,Self-Service Portal Configuration,-30,-28,Completed,Portal testing and SSO verified.
+INI-0002,elena.rostova@example.com,Employee Open Enrollment Launch,-10,-10,Completed,Open enrollment closed with 100% participation.
+INI-0003,sophia.taylor@example.com,Sales Workflow Architecture Review,-45,-44,Completed,Workflow requirements ratified.
+INI-0003,liam.oconnor@example.com,CRM Integration & Routing Engine,-10,-8,Completed,Routing rules live in staging.
+INI-0003,sophia.taylor@example.com,Field Enablement & Go-Live,25,,In Progress,Sales training scheduled.
+INI-0004,alex.rivera@example.com,Architecture Blueprint & Cloud Setup,-35,-33,Completed,Base cloud infrastructure accounts secured.
+INI-0004,james.wilson@example.com,Database Cluster Migration,-10,-8,Completed,Data synced with zero packet loss.
+INI-0004,alex.rivera@example.com,Production Cutover & Decommission,40,,In Progress,Final cutover planned.
+INI-0005,sarah.jenkins@example.com,OCR Parser Selection & Testing,-20,-18,Completed,Tested with 500 historical sample invoices.
+INI-0005,priya.nair@example.com,ERP Invoicing Connector Build,15,,In Progress,API payload mapping underway.
+INI-0005,sarah.jenkins@example.com,Finance User Acceptance Testing,55,,Not Started,UAT planned for next month.
+INI-0006,carlos.gomez@example.com,Cross-functional Discovery Interviews,-40,-38,Completed,Interviews completed with 15 team leads.
+INI-0006,carlos.gomez@example.com,Process Mapping Documentation,-10,,In Progress,Overdue by 10 days due to cross-team revision delays.
+INI-0006,maya.lin@example.com,SLA Escalation Dashboard Rollout,25,,Not Started,Blocked pending documentation completion.
+INI-0007,marcus.vance@example.com,Competency Model Assessment,-35,-32,Completed,Surveyed executive requirements.
+INI-0007,marcus.vance@example.com,Manager Curriculum Delivery,-8,,In Progress,Delayed due to content provider contract negotiations.
+INI-0007,elena.rostova@example.com,First Cohort Workshop Series,30,,Not Started,Cohort roster drafted.
+INI-0008,maya.lin@example.com,Customer Journey Mapping,-70,-68,Completed,Journey friction points cataloged.
+INI-0008,rachel.green@example.com,Self-Service Portal Wireframes,-40,-38,Completed,Approved by design committee.
+INI-0008,maya.lin@example.com,Billing Gateway Handshake Integration,-15,,Blocked,Blocked by delay in Legacy Billing API modernization INI-0010.
+INI-0008,rachel.green@example.com,End-to-End Pilot Rollout,25,,Not Started,Pending unblocking of billing integration.
+INI-0009,anita.patel@example.com,Data Schema Specification,-45,-42,Completed,Unified schema approved.
+INI-0009,anita.patel@example.com,Streaming Pipeline Ingestion Build,-10,,In Progress,Behind plan due to streaming pipeline memory leaks.
+INI-0009,anita.patel@example.com,Business Operations Dashboards,15,,Not Started,Scheduled after pipeline stability.
+INI-0010,james.wilson@example.com,Legacy API Deprecation Impact Analysis,-60,-58,Completed,Detailed dependency matrix constructed.
+INI-0010,james.wilson@example.com,Modernized Gateway Sandbox Deployment,-25,,Blocked,Blocked by third-party vendor licensing disputes.
+INI-0010,alex.rivera@example.com,Production Switchover,10,,Not Started,Halted pending resolution of gateway sandbox.
+INI-0011,liam.oconnor@example.com,Partner Tiering Guidelines,-25,-22,Completed,Framework signed off by sales leadership.
+INI-0011,liam.oconnor@example.com,Partner Portal Beta Launch,15,,In Progress,Portal customization in development.
+INI-0011,kevin.zhang@example.com,Initial 10 Partners Onboarded,45,,Not Started,Partner outreach commenced.
+INI-0012,priya.nair@example.com,Banking Open API Security Review,-15,-12,Completed,InfoSec clearance obtained.
+INI-0012,priya.nair@example.com,Cash Position Aggregation Service,20,,In Progress,Building connectors to primary banks.
+INI-0012,david.chen@example.com,Executive Liquidity View,55,,Not Started,Planned for Q4 close.
+INI-0013,chloe.bennett@example.com,Ergonomic Catalog Definition,25,,Not Started,Drafting vendor hardware catalog.
+INI-0013,elena.rostova@example.com,Policy Publication & Stipend Launch,75,,Not Started,Global rollout scheduled.
+INI-0014,rachel.green@example.com,Queue Mapping & Routing Rules,-10,-8,Completed,Routing matrices established.
+INI-0014,rachel.green@example.com,Telephony & Chatbot Integration,25,,In Progress,Configuring VoIP triggers.
+INI-0014,carlos.gomez@example.com,Full Team Rollout,65,,Not Started,Agent training scheduled.
+INI-0015,alex.rivera@example.com,Identity Provider MFA Hardening,-30,-28,Completed,MFA enforced for all staff.
+INI-0015,james.wilson@example.com,Mutual TLS Service Mesh Configuration,15,,In Progress,Canary deployment in progress.
+INI-0015,alex.rivera@example.com,External Security Penetration Test,70,,Not Started,Security audit firm scheduled.
+INI-0016,kevin.zhang@example.com,Churn Telemetry Signal Analysis,-10,-8,Completed,Top 5 churn precursors identified.
+INI-0016,kevin.zhang@example.com,Retention Playbook Documentation,15,,In Progress,Writing escalation playbooks for CSMs.
+INI-0016,sophia.taylor@example.com,CSM Team Training & Go-Live,40,,Not Started,Training schedule set.

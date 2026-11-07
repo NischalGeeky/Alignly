@@ -1,0 +1,5 @@
+initiative_code,meeting_title,decision_text,decision_offset_days,status,rationale
+INI-0008,Executive Leadership Bi-Weekly Review,"Approve temporary surge contractor capacity to unblock customer onboarding process mapping and manual integration work.",-3,Pending,"Customer Operations is facing customer backlog due to upstream technical bottlenecks."
+INI-0004,Executive Leadership Bi-Weekly Review,"Authorize additional cloud migration vendor professional services budget to expedite cutover.",-2,Pending,"Ensures database cluster transition completes before annual volume surge."
+INI-0001,Q3 Strategic Operations Retrospective,"Approve enterprise standard for automated ledger reconciliation and audit trail signoff.",-25,Approved,"Manual reconciliations posed recurring audit risk in previous fiscal years."
+INI-0015,Q3 Strategic Operations Retrospective,"Mandate company-wide Zero Trust endpoint security compliance by end of Q4.",-20,Approved,"Critical for SOC2 Type II compliance audit."

@@ -1,0 +1,79 @@
+milestone_id,milestone_name,initiative_code,department,owner,planned_date,actual_date,status
+bb56efe187ca491799d7c5c2d2d43861,Requirements Definition & Audit Scope,INI-0001,Finance,David Chen,2026-07-24,2026-07-26,Completed
+ae061ea5936c4463a2c47b7b2172b732,Reconciliation Engine Configuration,INI-0001,Finance,Sarah Jenkins,2026-09-12,2026-09-14,Completed
+e2d68baba08048d984982506285f4b63,Final Signoff & Audit Certification,INI-0001,Finance,David Chen,2026-10-17,2026-10-17,Completed
+a784dd8279f243c6b2f8587f5a307c6b,Benefits Vendor RFP & Selection,INI-0002,People & Culture,Elena Rostova,2026-08-18,2026-08-21,Completed
+2170099445b242d88f78e61672a206d5,Self-Service Portal Configuration,INI-0002,People & Culture,Chloe Bennett,2026-10-02,2026-10-04,Completed
+a1e2ade50d054e1eb94c3955e2e0fc65,Employee Open Enrollment Launch,INI-0002,People & Culture,Elena Rostova,2026-10-22,2026-10-22,Completed
+b362961e9e69467aac2cbfb3c9f4d46b,Sales Workflow Architecture Review,INI-0003,Sales & Partnerships,Sophia Taylor,2026-09-17,2026-09-18,Completed
+e7f9f20cf8e54dc0a533e58816f41870,CRM Integration & Routing Engine,INI-0003,Sales & Partnerships,Liam O'Connor,2026-10-22,2026-10-24,Completed
+c54aec2483784affb97a1c23a2bd65aa,Field Enablement & Go-Live,INI-0003,Sales & Partnerships,Sophia Taylor,2026-11-26,,In Progress
+2d125761426b4a88bf2ec7fa3421d447,Architecture Blueprint & Cloud Setup,INI-0004,Technology,Alex Rivera,2026-09-27,2026-09-29,Completed
+b1c15f9ee6e84f8aacf21dcc30cf5014,Database Cluster Migration,INI-0004,Technology,James Wilson,2026-10-22,2026-10-24,Completed
+5b6a90e7916740fdb5748537113523a3,Production Cutover & Decommission,INI-0004,Technology,Alex Rivera,2026-12-11,,In Progress
+0d36ecfeb2fd45c389279be778acf2ca,OCR Parser Selection & Testing,INI-0005,Finance,Sarah Jenkins,2026-10-12,2026-10-14,Completed
+bc5ca94f1e154922835ec6749ea90175,ERP Invoicing Connector Build,INI-0005,Finance,Priya Nair,2026-11-16,,In Progress
+50017ca19cf842888629b89b62809a8b,Finance User Acceptance Testing,INI-0005,Finance,Sarah Jenkins,2026-12-26,,Not Started
+5b616eb4444847179ae4f30f800e0f68,Cross-functional Discovery Interviews,INI-0006,Customer Operations,Carlos Gomez,2026-09-22,2026-09-24,Completed
+ce8bfcaca5a147009bb7598f6d1b1043,Process Mapping Documentation,INI-0006,Customer Operations,Carlos Gomez,2026-10-22,,In Progress
+827aa2234a92485e971bccc6297a14e8,SLA Escalation Dashboard Rollout,INI-0006,Customer Operations,Maya Lin,2026-11-26,,Not Started
+fcc86fe8edf348cfb3d0d54027148450,Competency Model Assessment,INI-0007,People & Culture,Marcus Vance,2026-09-27,2026-09-30,Completed
+80db449d0f12424da76a6bb15aafc0d7,Manager Curriculum Delivery,INI-0007,People & Culture,Marcus Vance,2026-10-24,,In Progress
+c12b05fc94aa4ffcbf027a111a56be39,First Cohort Workshop Series,INI-0007,People & Culture,Elena Rostova,2026-12-01,,Not Started
+76207467a26a4e1e9925ee2515e12163,Customer Journey Mapping,INI-0008,Customer Operations,Maya Lin,2026-08-23,2026-08-25,Completed
+40ded47a17d3405b80cd46be7aba1473,Self-Service Portal Wireframes,INI-0008,Customer Operations,Rachel Green,2026-09-22,2026-09-24,Completed
+1779651cc5e74cc3b4464fdb6f15fbf8,Billing Gateway Handshake Integration,INI-0008,Customer Operations,Maya Lin,2026-10-17,,Blocked
+2b626c9b01fc46db945d55448ebe97e2,End-to-End Pilot Rollout,INI-0008,Customer Operations,Rachel Green,2026-11-26,,Not Started
+a72a176ba18b43c490224befe191d208,Data Schema Specification,INI-0009,Technology,Anita Patel,2026-09-17,2026-09-20,Completed
+c58ba425420441abbbbe24424f25de0c,Streaming Pipeline Ingestion Build,INI-0009,Technology,Anita Patel,2026-10-22,,In Progress
+dd67e09c175842908c5e933135de345a,Business Operations Dashboards,INI-0009,Technology,Anita Patel,2026-11-16,,Not Started
+6226372794e64d62940cfcf8f2de453a,Legacy API Deprecation Impact Analysis,INI-0010,Technology,James Wilson,2026-09-02,2026-09-04,Completed
+3680852675254faebd7bba126a327677,Modernized Gateway Sandbox Deployment,INI-0010,Technology,James Wilson,2026-10-07,,Blocked
+377d3b1a904e455dae1e7290536277f3,Production Switchover,INI-0010,Technology,Alex Rivera,2026-11-11,,Not Started
+75ba073f7ac648998aaa1a6701832748,Partner Tiering Guidelines,INI-0011,Sales & Partnerships,Liam O'Connor,2026-10-07,2026-10-10,Completed
+d5ebd2c00b1c4408b828747df29d5797,Partner Portal Beta Launch,INI-0011,Sales & Partnerships,Liam O'Connor,2026-11-16,,In Progress
+04fdcb5910f54f13956965950c56c2d9,Initial 10 Partners Onboarded,INI-0011,Sales & Partnerships,Kevin Zhang,2026-12-16,,Not Started
+97d949d912614415921ab668677e5c9e,Banking Open API Security Review,INI-0012,Finance,Priya Nair,2026-10-17,2026-10-20,Completed
+bda97764cdbe4baa9b0ff22f586139b4,Cash Position Aggregation Service,INI-0012,Finance,Priya Nair,2026-11-21,,In Progress
+415a5c8d12a044d1a7e5246841a750e7,Executive Liquidity View,INI-0012,Finance,David Chen,2026-12-26,,Not Started
+fd32381f27e04bdea2db3fcce5e0ed60,Ergonomic Catalog Definition,INI-0013,People & Culture,Chloe Bennett,2026-11-26,,Not Started
+b1d0751b3983458da0934092b601055b,Policy Publication & Stipend Launch,INI-0013,People & Culture,Elena Rostova,2027-01-15,,Not Started
+5626d7f3d2084d329156ca83f44cc02e,Queue Mapping & Routing Rules,INI-0014,Customer Operations,Rachel Green,2026-10-22,2026-10-24,Completed
+3d170f8b87454e719215c2b3f69aefd4,Telephony & Chatbot Integration,INI-0014,Customer Operations,Rachel Green,2026-11-26,,In Progress
+d89b9c9e33dc4d55a301d34da6aea62d,Full Team Rollout,INI-0014,Customer Operations,Carlos Gomez,2027-01-05,,Not Started
+b881f0553ac44773b17bfb824e26b4ab,Identity Provider MFA Hardening,INI-0015,Technology,Alex Rivera,2026-10-02,2026-10-04,Completed
+78d2aa234e754b4194bd9fd041ebad8a,Mutual TLS Service Mesh Configuration,INI-0015,Technology,James Wilson,2026-11-16,,In Progress
+cee12a09d6ca42279bbcca8eca8150fa,External Security Penetration Test,INI-0015,Technology,Alex Rivera,2027-01-10,,Not Started
+657aedbda5d0473dae8283d6937e8f77,Churn Telemetry Signal Analysis,INI-0016,Sales & Partnerships,Kevin Zhang,2026-10-22,2026-10-24,Completed
+8bd7fd8a897f40e68295653a0a26acbb,Retention Playbook Documentation,INI-0016,Sales & Partnerships,Kevin Zhang,2026-11-16,,In Progress
+bb14fed260af455a857f6a9e1b7bfcb3,CSM Team Training & Go-Live,INI-0016,Sales & Partnerships,Sophia Taylor,2026-12-11,,Not Started
+2cc99287819041758948190b76651cf9,First Milestone,INI-MILE-ca21eb,Test Dept 338c11,John Doe,2026-11-10,,Not Started
+cef04550b47d4a74958e1ce3e9538d19,First Milestone,INI-MILE-92d425,Test Dept a19c99,John Doe,2026-11-10,,Not Started
+38632741ed7f42bbbe8b4a295f7b33c8,First Milestone,INI-MILE-962a02,Test Dept fe427d,John Doe,2026-11-10,,Not Started
+fe2d83b5ca4049cabf858146669a4c31,First Milestone,INI-MILE-cb1848,Test Dept ea55b5,John Doe,2026-11-10,,Not Started
+6b5c3f0ba24b4c5290f950feb474aee1,First Milestone,INI-MILE-aa5b8b,Test Dept 6ceba7,John Doe,2026-11-10,,Not Started
+f3b8de8469bb4fc8967253ffe253fef2,First Milestone,INI-MILE-280153,Test Dept d33c5e,John Doe,2026-11-10,,Not Started
+1f8280d19e6b40a5acb253f45311cc4b,First Milestone,INI-MILE-86a8ea,Test Dept 3b396f,John Doe,2026-11-10,,Not Started
+ba9033d26fd54ec7b7c3a49940893c07,First Milestone,INI-MILE-e52d47,Test Dept b0d826,John Doe,2026-11-10,,Not Started
+0813af7250f84fc89369eb571a41ce5d,First Milestone,INI-MILE-667933,Test Dept 6fbee3,John Doe,2026-11-10,,Not Started
+9348e8515aae4f8f8fd17efead4ca264,First Milestone,INI-MILE-90550f,Test Dept 378b4c,John Doe,2026-11-10,,Not Started
+6939ce3829e14097a1bee211b4beb6e6,First Milestone,INI-MILE-8cad9f,Test Dept 49ea1b,John Doe,2026-11-10,,Not Started
+e5b7678baa8a4531aae1e7e1d10577ea,First Milestone,INI-MILE-c742dd,Test Dept eedce6,John Doe,2026-11-10,,Not Started
+1e073b486be444978b2f6617f58011b2,First Milestone,INI-MILE-478873,Test Dept fba059,John Doe,2026-11-10,,Not Started
+6176c3f21a02428d8f36f27aefeeb99c,First Milestone,INI-MILE-7a5898,Test Dept 1fe44e,John Doe,2026-11-10,,Not Started
+b9cad5d7c4184d35ad1e270aa4eb13d3,First Milestone,INI-MILE-5b6c76,Test Dept 4918fc,John Doe,2026-11-10,,Not Started
+1141feeea54446d0ba8b38ba79811cc3,First Milestone,INI-MILE-a67b9d,Test Dept cdb52a,John Doe,2026-11-10,,Not Started
+9c34cca21e154ad7954da2e35f9eb6de,First Milestone,INI-MILE-95cf6b,Test Dept c3df0e,John Doe,2026-11-10,,Not Started
+1090da9816754afb982961b8a3b2019b,First Milestone,INI-MILE-23295b,Test Dept 8638f1,John Doe,2026-11-10,,Not Started
+af97f80d0aa1455aa8bbd98aba44599a,First Milestone,INI-MILE-7e54d0,Test Dept eb07a0,John Doe,2026-11-10,,Not Started
+aabf8c33a35849b0b840678e52e9db08,First Milestone,INI-MILE-3fa3b6,Test Dept 07141f,John Doe,2026-11-10,,Not Started
+374b9bb887c6444da090f1b6848c131e,First Milestone,INI-MILE-1cc55b,Test Dept 4922cc,John Doe,2026-11-10,,Not Started
+274e454ccb8e40f1973b6e676b1f6f5c,First Milestone,INI-MILE-a76148,Test Dept e2d154,John Doe,2026-11-10,,Not Started
+d76382d003b543efbc726c1ed9ad96aa,First Milestone,INI-MILE-6d6b1b,Test Dept 80bbcb,John Doe,2026-11-10,,Not Started
+52fc4c7691fc418b9c1a11980c579203,First Milestone,INI-MILE-409920,Test Dept df6fc9,John Doe,2026-11-10,,Not Started
+72ff5738b65a41748132065ec3c1be96,First Milestone,INI-MILE-3bb109,Test Dept 8efd80,John Doe,2026-11-10,,Not Started
+8bbda141fcef42d29116fd901f45a79f,First Milestone,INI-MILE-148b8c,Test Dept 4cb645,John Doe,2026-11-10,,Not Started
+ea67dceeb3754c8db6d042f8e1a64cd6,First Milestone,INI-MILE-8e6830,Test Dept a0d46c,John Doe,2026-11-10,,Not Started
+a6ab1f6beb12412c9dbd82baacc5dd4c,First Milestone,INI-MILE-771ada,Test Dept 1176b7,John Doe,2026-11-10,,Not Started
+e8c450f5e37244edbb3d7135abadd327,First Milestone,INI-MILE-6bd50f,Test Dept 25b860,John Doe,2026-11-10,,Not Started
+914829cb5ecc4406bef8e56f55f8a2a1,First Milestone,INI-MILE-9f2247,Test Dept d27464,John Doe,2026-11-10,,Not Started

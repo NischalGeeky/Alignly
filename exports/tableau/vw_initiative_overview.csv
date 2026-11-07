@@ -1,0 +1,87 @@
+initiative_id,code,name,department,owner,priority,status,progress_pct,start_date,target_date,latest_update_date
+25d328b23b634c2fbc1f1e4234a94ceb,DUP001,Dup 0,Test Dept 5b5b51,John Doe,Medium,Not Started,0,2026-11-07,2026-11-12,
+3ebae5d4372a472d92ca65d95a388faf,EXIST001,Existing,Test Dept c7959b,John Doe,Medium,Not Started,0,2026-11-07,2026-11-17,
+6a34a5aaa2a6414ea916b4a8446c605c,INI-0001,ERP Fiscal Year Close Automation,Finance,David Chen,High,Completed,100,2026-07-04,2026-10-17,2026-10-17
+9693291c17fb474fb63b06ec6bce77c1,INI-0002,Benefits Portal & Total Rewards Refresh,People & Culture,Elena Rostova,Medium,Completed,100,2026-08-03,2026-10-22,2026-10-22
+c7a161c493a04272a4d0edfc5c50fe59,INI-0003,Enterprise CRM Pipeline Automation,Sales & Partnerships,Sophia Taylor,High,In Progress,70,2026-09-02,2026-12-01,2026-10-30
+f4cdcdc65c264c93a78496c02f30d327,INI-0004,Core Infrastructure Cloud Migration,Technology,Alex Rivera,Critical,In Progress,55,2026-09-17,2026-12-16,2026-10-29
+bdb79336f70c40d993233645a2147b5c,INI-0005,Automated Accounts Payable Invoicing,Finance,Sarah Jenkins,Medium,In Progress,40,2026-10-02,2026-12-31,2026-10-28
+ade44e4e09144b9aaca78ffee55e00db,INI-0006,Customer Operations Process Mapping & Escalation Overhaul,Customer Operations,Carlos Gomez,High,In Progress,35,2026-09-02,2026-12-01,2026-10-27
+f6887c0cdc174c0e9210f6d33cf986b8,INI-0007,Management Leadership Development Program,People & Culture,Marcus Vance,Medium,In Progress,30,2026-09-12,2026-12-11,2026-10-26
+17d7ab75d30741219e2f192480e7f784,INI-0008,Customer Onboarding Workflow Redesign,Customer Operations,Maya Lin,Critical,At Risk,48,2026-08-03,2026-12-01,2026-10-20
+8d596312ea8243f480ecffe85a282e74,INI-0009,Customer Data Platform Integration,Technology,Anita Patel,High,At Risk,40,2026-09-02,2026-11-21,2026-10-28
+606507e1be4945e88efd6aeee9aa7f07,INI-001,Test Initiative,Test Dept 6f4359,John Doe,High,Not Started,0,2026-11-07,2026-12-07,
+92c70addea9347899985ca3b24417480,INI-0010,Legacy Billing API Gateway Modernization,Technology,James Wilson,Critical,Blocked,35,2026-08-18,2026-11-16,2026-10-16
+8c33c4f3d6164bfca3ebfcbf6f93b00c,INI-0011,Strategic Channel Partner Program,Sales & Partnerships,Liam O'Connor,Medium,In Progress,45,2026-09-22,2026-12-21,2026-10-29
+79d5034f8efc41c2867ba8b6f0d3bb36,INI-0012,Treasury & Real-time Cashflow Dashboard,Finance,Priya Nair,Low,In Progress,25,2026-10-02,2026-12-31,2026-10-27
+31855b9eee5f41618e2037332d093b9f,INI-0013,Global Hybrid Workplace Policy & Equipment Provisioning,People & Culture,Chloe Bennett,Low,Not Started,0,2026-11-11,2027-01-30,2026-11-02
+5f004735c2aa44f9a5b8b7d5f22c0e7b,INI-0014,Omni-channel Customer Support Routing,Customer Operations,Rachel Green,Medium,In Progress,20,2026-10-12,2027-01-10,2026-10-29
+19b8d783edd344c4a25cde40a58777b0,INI-0015,Zero Trust Security Framework Rollout,Technology,Alex Rivera,High,In Progress,50,2026-09-22,2027-01-20,2026-10-28
+a679d943155549c4aeaebec75a3b64a7,INI-0016,Client Success Retention & Renewal Playbook,Sales & Partnerships,Kevin Zhang,Medium,In Progress,30,2026-10-17,2026-12-16,2026-10-30
+a3899c98d710439bad149b094f484475,INI-14e655,Test Initiative,Test Dept 74ce75,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+17863f9f9a064ade8e64d20bc605a75f,INI-1a31a4,Test Initiative,Test Dept 2e2cec,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+0a491b2240234afb971fc4226f1361dc,INI-3f6416,Test Initiative,Test Dept 3f6416,John Doe,Medium,Not Started,0,2026-11-07,2026-12-07,
+f4eccfaba3d347d99966f21deac5a894,INI-4647c1,Test Initiative,Test Dept 894c0e,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+571a7779e7714c04a016df94463c68d3,INI-7a4b82,Test Initiative,Test Dept aba88c,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+199e3dd5716e4c4b9ef6e0d051ae2c8d,INI-82769c,Test Initiative,Test Dept fb90a8,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+7f7afc942bb2457bac9b71c908b1b304,INI-89a268,Test Initiative,Test Dept 201cc0,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+ac434f4b23094418a369e421cd27961b,INI-BAD-251c24,Bad Progress,Test Dept 63c26d,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+da11cf7643a846e79e881edfc77197d2,INI-BAD-4ebee8,Bad Progress,Test Dept be5e82,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+f5a34fc3a145466ba5183a8268730bf1,INI-BAD-657db9,Bad Progress,Test Dept 5fbe92,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+44d37bf6d1b640e589552b055176b895,INI-BAD-a73778,Bad Progress,Test Dept 2b1603,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+b117b4352ae24be688b7fe5e3e71c772,INI-BAD-e2944e,Bad Progress,Test Dept 758bab,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+aebbe6aa1e1c45bba88b3bc510f7f694,INI-MILE-148b8c,Milestone Initiative,Test Dept 4cb645,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+c948259d1e0f40dc9a25700038398ac3,INI-MILE-1cc55b,Milestone Initiative,Test Dept 4922cc,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+9ff105c52bb444bcb47f1d072e76e938,INI-MILE-23295b,Milestone Initiative,Test Dept 8638f1,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+68b9dc69f30f42c0850eeab035886c6c,INI-MILE-280153,Milestone Initiative,Test Dept d33c5e,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+faa8518740724453a99ed89b47de3f0c,INI-MILE-3bb109,Milestone Initiative,Test Dept 8efd80,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+41bcd6b54cf04d19b91767706d035614,INI-MILE-3fa3b6,Milestone Initiative,Test Dept 07141f,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+cc08d09cb4f644578e623e655402d0be,INI-MILE-409920,Milestone Initiative,Test Dept df6fc9,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+b08ddfafde9340ab85471a43f89103d0,INI-MILE-478873,Milestone Initiative,Test Dept fba059,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+161d8f9f297243d7b43b40c952510918,INI-MILE-5b6c76,Milestone Initiative,Test Dept 4918fc,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+27ac13b4fa46424bbbfa16d821a2322f,INI-MILE-667933,Milestone Initiative,Test Dept 6fbee3,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+52103494b6c74d21b7472893b697e031,INI-MILE-6bd50f,Milestone Initiative,Test Dept 25b860,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+4e7dbbb3f9074b90a0299dd7c6b510e9,INI-MILE-6d6b1b,Milestone Initiative,Test Dept 80bbcb,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+483ddfc047704e7e96c5dbf2b771479e,INI-MILE-771ada,Milestone Initiative,Test Dept 1176b7,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+71606cb8895c4498ac5a94d7b1663209,INI-MILE-7a5898,Milestone Initiative,Test Dept 1fe44e,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+3e09747d66234383b67bfd95d2319c71,INI-MILE-7e54d0,Milestone Initiative,Test Dept eb07a0,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+9ecaa8f167bb45249a9b573fde17786b,INI-MILE-86a8ea,Milestone Initiative,Test Dept 3b396f,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+3e3e94d56f2a4e12a414444652ecffd8,INI-MILE-8cad9f,Milestone Initiative,Test Dept 49ea1b,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+cc5fa3444cea43c09a2c3acf2c289ca8,INI-MILE-8e6830,Milestone Initiative,Test Dept a0d46c,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+0bad4d49823b4727999b280b23a8e0ab,INI-MILE-90550f,Milestone Initiative,Test Dept 378b4c,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+5beb3d7b277d4e719925e4a888b3d90b,INI-MILE-92d425,Milestone Initiative,Test Dept a19c99,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+0fba073d0f7044de88d968dba2a8bf08,INI-MILE-95cf6b,Milestone Initiative,Test Dept c3df0e,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+8f86dd84ca474d9d83d024db4c07a2f0,INI-MILE-962a02,Milestone Initiative,Test Dept fe427d,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+3dcfac6d31a54a648a47cb11ca29e7f2,INI-MILE-9f2247,Milestone Initiative,Test Dept d27464,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+a563852ffcf24a268af46d74910a8973,INI-MILE-a67b9d,Milestone Initiative,Test Dept cdb52a,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+7284225c32ee4b6fbcb671ff5df43ef1,INI-MILE-a76148,Milestone Initiative,Test Dept e2d154,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+4a32caf9b51d4189905e8e46c2bc9a53,INI-MILE-aa5b8b,Milestone Initiative,Test Dept 6ceba7,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+624a3120ba37431abc6dab11237b1424,INI-MILE-c742dd,Milestone Initiative,Test Dept eedce6,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+ef1fda91ecbf4814ab50860e9a04774a,INI-MILE-ca21eb,Milestone Initiative,Test Dept 338c11,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+11eb1fd82d494bf7ab09dd18471f7b89,INI-MILE-cb1848,Milestone Initiative,Test Dept ea55b5,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+bae825f33ae54155a14e675dd6179a04,INI-MILE-e52d47,Milestone Initiative,Test Dept b0d826,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+4bd08b44fe2a4a7aba4ccf48594c74b3,INI-TEST-001,Test Initiative,Test Dept,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+b1ceaa9ec5a04323b9b82782ca8f9add,INI-UPD-0978cd,Update Test Initiative,Test Dept bf23fa,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+5c36539202fb489f9cdd9920c1057f9f,INI-UPD-21912a,Update Test Initiative,Test Dept 61101f,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+10c8721f5c094e9da89c9b72c59fe695,INI-UPD-31e306,Update Test Initiative,Test Dept ffb219,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+dd74fb407221419aa6835980b62c0483,INI-UPD-456abc,Update Test Initiative,Test Dept e26f84,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+4f4bf714b7c4492d8d413b2d73a6d35b,INI-UPD-4ff8a8,Update Test Initiative,Test Dept 2e4efb,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+6be763f0fce24e88867312fbf094526d,INI-UPD-5aefe7,Update Test Initiative,Test Dept d3a1d9,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+069ba61588ec46378519fe28116bc014,INI-UPD-5f1477,Update Test Initiative,Test Dept 57231d,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+5ae873e9a6b74ab8aaedccf42242143f,INI-UPD-6c49ac,Update Test Initiative,Test Dept 1b1c0e,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+367e069548134bc990c7e5052344696e,INI-UPD-7006c5,Update Test Initiative,Test Dept 5410e7,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+1534eb39c32448deabad59ab5fbac81e,INI-UPD-7524a2,Update Test Initiative,Test Dept 126569,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+abeb85947f7a45c9abc1460798a9213a,INI-UPD-b0fa4e,Update Test Initiative,Test Dept ad2dfb,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+7f538991cd084df2a09cf3652e13c8e1,INI-UPD-c584f5,Update Test Initiative,Test Dept a0e34b,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+b41312122f91489ab37d7f032f45cc52,INI-UPD-ccd5af,Update Test Initiative,Test Dept eef670,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+912015e10dee434da1ee6bb4af952fc6,INI-UPD-dc3181,Update Test Initiative,Test Dept 8505fd,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+9625d72cd5e4480ca395a04fa1825b81,INI-UPD-fb7481,Update Test Initiative,Test Dept f5516c,John Doe,Medium,Not Started,0,2026-11-05,2026-12-05,
+6db61e5c24ef45c78d0af039d855c21e,INI-a0dd52,Test Initiative,Test Dept 76c4f9,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+238609f5583049f9990d3835a461887b,INI-d9f67b,Test Initiative,Test Dept 9af9f8,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+0a768ec1b81c4ab3ab262399251bdc2d,INI-e744f2,Test Initiative,Test Dept 61c1c3,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+f896832e9b774905b26c5c2cf6697d9d,INI-e8ad7c,Test Initiative,Test Dept 324514,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+53f96dc2ada541d487563a3b7bbca770,INI-e9f4be,Test Initiative,Test Dept d81b0a,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+151d26a6224b4adb93899e96aec4b96f,INI-eb98c8,Test Initiative,Test Dept 1a5bff,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+143f62244afe4a3389cd81c006ab50fc,INI-f16296,Test Initiative,Test Dept f0172b,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+aad4a7047ce54afcada6287e3e781ec3,INI-f47a93,Test Initiative,Test Dept c6c1c6,John Doe,High,Not Started,0,2026-11-05,2026-12-05,
+ea604d4a57554daba50d0dc9324e2342,INI-fa7917,Test Initiative,Test Dept c29ad5,John Doe,High,Not Started,0,2026-11-05,2026-12-05,

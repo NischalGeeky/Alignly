@@ -1,0 +1,17 @@
+initiative_code,author_email,update_offset_days,progress_pct,status,update_text
+INI-0001,david.chen@example.com,-15,100,Completed,Final executive audit completed and signed off. All reconciliations verified.
+INI-0002,elena.rostova@example.com,-10,100,Completed,Benefits open enrollment closed with 100% participation across all 5 departments.
+INI-0003,sophia.taylor@example.com,-2,70,In Progress,CRM staging tests passed. Finalizing sales rep training modules.
+INI-0004,alex.rivera@example.com,-3,55,In Progress,Database cluster migration completed without incident. Commencing application layer cutover.
+INI-0005,sarah.jenkins@example.com,-4,40,In Progress,OCR validation completed on test batch. API connector build underway.
+INI-0006,carlos.gomez@example.com,-5,35,In Progress,Process mapping draft delayed due to cross-department review feedback. Escalating to department head.
+INI-0007,marcus.vance@example.com,-6,30,In Progress,Manager workshop dates tentative pending vendor contract finalization.
+INI-0008,maya.lin@example.com,-12,48,At Risk,Customer onboarding workflow halted at billing integration step due to blocked upstream API dependency INI-0010.
+INI-0009,anita.patel@example.com,-4,40,At Risk,Streaming ingestion service experiencing pipeline lag during batch tests. Debugging memory profile.
+INI-0010,james.wilson@example.com,-16,35,Blocked,Work paused. Third-party vendor API license negotiation ongoing with legal and executive leadership.
+INI-0011,liam.oconnor@example.com,-3,45,In Progress,Partner tiering signoff completed. Reviewing portal configuration.
+INI-0012,priya.nair@example.com,-5,25,In Progress,Open banking security clearances confirmed. Commencing bank feed integration.
+INI-0013,chloe.bennett@example.com,1,0,Not Started,Initiative kick-off planned for next week.
+INI-0014,rachel.green@example.com,-3,20,In Progress,VoIP IVR routing rules tested in staging.
+INI-0015,alex.rivera@example.com,-4,50,In Progress,MFA fully implemented. Canary service mesh underway.
+INI-0016,kevin.zhang@example.com,-2,30,In Progress,Churn precursor model presented to sales leads. Finalizing retention playbooks.

@@ -1,0 +1,6 @@
+initiative_code,title,description,severity,status,identified_offset_days
+INI-0010,Third-party Gateway API Deprecation,"Vendor scheduled end-of-life for legacy REST API endpoints earlier than previously documented.",Critical,Open,-25
+INI-0008,Operational Capacity Deficit in Onboarding,"Customer onboarding specialist team operating at 120% capacity leading to customer backlog.",High,Open,-18
+INI-0009,Streaming Message Queue Ingestion Lag,"High event volume during peak business hours causing latency in CDP sync.",High,Open,-14
+INI-0004,Cloud Egress Bandwidth Cost Spikes,"Data migration throughput incurring unforeseen data egress charges from legacy provider.",Medium,Mitigated,-30
+INI-0006,Departmental Signoff Delays,"Escalation matrix signoffs delayed across regional support managers.",Medium,Open,-12

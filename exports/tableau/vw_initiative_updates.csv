@@ -1,0 +1,17 @@
+initiative_code,update_date,progress_pct,status,update_text
+INI-0001,2026-10-17,100,Completed,Final executive audit completed and signed off. All reconciliations verified.
+INI-0002,2026-10-22,100,Completed,Benefits open enrollment closed with 100% participation across all 5 departments.
+INI-0003,2026-10-30,70,In Progress,CRM staging tests passed. Finalizing sales rep training modules.
+INI-0004,2026-10-29,55,In Progress,Database cluster migration completed without incident. Commencing application layer cutover.
+INI-0005,2026-10-28,40,In Progress,OCR validation completed on test batch. API connector build underway.
+INI-0006,2026-10-27,35,In Progress,Process mapping draft delayed due to cross-department review feedback. Escalating to department head.
+INI-0007,2026-10-26,30,In Progress,Manager workshop dates tentative pending vendor contract finalization.
+INI-0008,2026-10-20,48,At Risk,Customer onboarding workflow halted at billing integration step due to blocked upstream API dependency INI-0010.
+INI-0009,2026-10-28,40,At Risk,Streaming ingestion service experiencing pipeline lag during batch tests. Debugging memory profile.
+INI-0010,2026-10-16,35,Blocked,Work paused. Third-party vendor API license negotiation ongoing with legal and executive leadership.
+INI-0011,2026-10-29,45,In Progress,Partner tiering signoff completed. Reviewing portal configuration.
+INI-0012,2026-10-27,25,In Progress,Open banking security clearances confirmed. Commencing bank feed integration.
+INI-0013,2026-11-02,0,Not Started,Initiative kick-off planned for next week.
+INI-0014,2026-10-29,20,In Progress,VoIP IVR routing rules tested in staging.
+INI-0015,2026-10-28,50,In Progress,MFA fully implemented. Canary service mesh underway.
+INI-0016,2026-10-30,30,In Progress,Churn precursor model presented to sales leads. Finalizing retention playbooks.

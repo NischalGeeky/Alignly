@@ -1,0 +1,6 @@
+initiative_code,owner_email,meeting_title,description,deadline_offset_days,priority,status,completed_offset_days
+INI-0010,alex.rivera@example.com,Executive Leadership Bi-Weekly Review,"Direct renegotiation with third-party billing gateway vendor regarding API deprecation and SLA terms.",-10,Critical,Open,
+INI-0006,carlos.gomez@example.com,Executive Leadership Bi-Weekly Review,"Submit revised milestone recovery schedule and resource request for customer process mapping.",-4,High,In Progress,
+INI-0001,david.chen@example.com,Q3 Strategic Operations Retrospective,"Archive and certify all FY26 ledger reconciliation audit packages with external auditors.",-15,High,Completed,-15
+INI-0008,maya.lin@example.com,Executive Leadership Bi-Weekly Review,"Present customer onboarding risk mitigation options at next executive review.",5,High,Open,
+INI-0011,sophia.taylor@example.com,Executive Leadership Bi-Weekly Review,"Finalize co-selling compensation structure for Tier-1 channel partners.",10,Medium,Open,
